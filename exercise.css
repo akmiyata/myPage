@@ -1,0 +1,21 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1557564437-0995702f88fc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    color: white;
+    text-align: left;
+}
+
+h1 {
+    text-decoration: underline;
+    color: white;
+}
+
+h3 {
+    color: orange;
+}
+
+h3:hover {
+    text-shadow: 1px 2px 5px white;
+}

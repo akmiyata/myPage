@@ -1,0 +1,57 @@
+#adamm {
+    display: flex;
+    flex-direction: row;
+    height: auto;
+}
+
+#mainpic {
+    height: 400px;
+    border-radius: 0%;
+    padding-left: 250px;
+}
+
+.butns {
+    height: 175px;
+}
+
+.btn {
+    color: white;
+}
+
+#namepic {
+    background: url("https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+#button1 {
+    background: lightblue;
+    width: 100%;
+}
+
+#button2 {
+    background: lightgreen;
+}
+
+#button3 {
+    background: orange;
+}
+
+#button4 {
+    background: pink;
+}
+
+#button5 {
+    background: darkblue;
+}
+
+#btncol {
+    padding-left: 0;
+    padding-bottom: 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}    
